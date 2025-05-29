@@ -11,6 +11,8 @@ data.txt: Contains sample data and JSON structures for streaming simulation.
 
 Azure Solution Architecture.png: High level solution architecture.
 
+
+
 Prerequisites
 
 Active Azure subscription with access to Azure Databricks and Event Hubs.
